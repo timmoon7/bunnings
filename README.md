@@ -1,4 +1,4 @@
-# Bunnings - Consolidate the product Catalog into one superset
+## Bunnings - Consolidate the product Catalog into one superset
 
 Coding Skills Challeng Description can be found here: https://github.com/tosumitagrawal/codingskills
 
@@ -10,7 +10,7 @@ Coding Skills Challeng Description can be found here: https://github.com/tosumit
 
 ### How to install
 
-- clone this repository: git clone https://github.com/timmoon7/codingskills.git
+- clone this repository: git clone https://github.com/timmoon7/bunnings.git
 - goto the project folder: cd codingskills
 - intall packages: npm install (OR yarn install)
 
