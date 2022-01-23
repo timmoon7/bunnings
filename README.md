@@ -11,7 +11,7 @@ Coding Skills Challeng Description can be found here: https://github.com/tosumit
 ### How to install
 
 - clone this repository: git clone https://github.com/timmoon7/bunnings.git
-- goto the project folder: cd codingskills
+- goto the project folder: cd bunnings
 - intall packages: npm install (OR yarn install)
 
 ### How to run
