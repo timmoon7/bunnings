@@ -97,7 +97,7 @@ const writeToCSVFile = (products) => {
 };
 
 const extractAsCSV = (products) => {
-	const header = ['SKU,Description'];
+	const header = ['SKU,Description,Source'];
 	const rows = products.map(
 		(product) => `${product.SKU},${product.Description},${product.Source}`
 	);
