@@ -4,7 +4,7 @@ test('isBarcodeInBarcodesA is defiend', () => {
 	expect(isBarcodeInBarcodesA).toBeDefined();
 });
 
-test('should same as the CatalogA input file with Source A', () => {
+test('should exist the barcode in barcodesA list', () => {
 	const theBarcode = 'z2783613083817';
 
 	const barCodesA = [
